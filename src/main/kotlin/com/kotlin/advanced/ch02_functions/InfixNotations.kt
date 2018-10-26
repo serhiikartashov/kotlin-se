@@ -1,4 +1,4 @@
-package com.kotlin.advanced.ch01_functions
+package com.kotlin.advanced.ch02_functions
 
 infix fun String.shouldBeEqualTo(value: String) = this == value
 

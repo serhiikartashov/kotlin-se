@@ -1,4 +1,4 @@
-package com.kotlin.advanced.ch01_functions
+package com.kotlin.advanced.ch02_functions
 
 class Time(val hours: Int, val mins: Int) {
     operator fun plus(time: Time): Time {

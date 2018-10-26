@@ -1,4 +1,4 @@
-package com.kotlin.advanced.ch01_functions
+package com.kotlin.advanced.ch02_functions
 
 fun factorial(number: Int): Int {
     when (number) {

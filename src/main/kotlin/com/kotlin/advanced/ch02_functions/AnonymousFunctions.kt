@@ -1,4 +1,4 @@
-package com.kotlin.advanced.ch01_functions
+package com.kotlin.advanced.ch02_functions
 
 fun op(x: Int, op: (Int) -> Int): Int {
     return op(x)

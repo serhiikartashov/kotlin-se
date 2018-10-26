@@ -1,4 +1,4 @@
-package com.kotlin.advanced.ch01_functions
+package com.kotlin.advanced.ch02_functions
 
 class Request(val method: String, val query: String, val contentType: String)
 class Response(var contents: String, var status: Status) {

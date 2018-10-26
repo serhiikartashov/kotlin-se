@@ -1,4 +1,4 @@
-package com.kotlin.advanced.ch01_functions
+package com.kotlin.advanced.ch02_functions
 
 inline fun <T> Iterable<T>.myForEach(action: (T) -> Unit): Unit {
     for (element in this) action(element)
